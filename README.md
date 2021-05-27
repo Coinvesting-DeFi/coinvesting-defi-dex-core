@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/@coinvestingdefi/dex-core?style=flat-square)](https://npmjs.com/package/@coinvestingdefi/dex-core)
+
 # Coinvesting DeFi
 
 ## coinvesting-defi-dex-core
